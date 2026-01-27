@@ -56,6 +56,8 @@ export interface ParsedSource {
   subpath?: string;
   localPath?: string;
   ref?: string;
+  /** Skill name extracted from @skill syntax (e.g., owner/repo@skill-name) */
+  skillFilter?: string;
 }
 
 export interface MintlifySkill {
