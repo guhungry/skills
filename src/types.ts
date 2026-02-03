@@ -36,7 +36,6 @@ export type AgentType =
   | 'trae-cn'
   | 'windsurf'
   | 'zencoder'
-  | 'openclaude'
   | 'pochi'
   | 'adal';
 

@@ -134,7 +134,6 @@ export async function discoverSkills(
     join(searchPath, '.kiro/skills'),
     join(searchPath, '.mux/skills'),
     join(searchPath, '.neovate/skills'),
-    join(searchPath, '.openclaude/skills'),
     join(searchPath, '.opencode/skills'),
     join(searchPath, '.openhands/skills'),
     join(searchPath, '.pi/skills'),
